@@ -1,3 +1,4 @@
+//modificar para que escriba el letrero de poscion del arreglo desde 1
 #include <iostream>
 #include <string>
 
