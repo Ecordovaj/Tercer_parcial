@@ -15,7 +15,7 @@ int main() {
     string personas[n]; // arreglo de strings para almacenar los nombres
 
     // Le damos un dato a cada posición con un ciclo for
-    for (int i = 0; i < n; i++) {
+    for (int i = 1; i < n; i++) {
         // Pedimos los datos
         cout << "Digite un nombre para la posición " << i << ": ";
         string nombre; // variable para almacenar el nombre ingresado
